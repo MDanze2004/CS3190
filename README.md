@@ -1,2 +1,3 @@
 # CS3190
-For class Cs3190
+Will be used to display ethical ideas from Cs3190
+
